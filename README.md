@@ -48,7 +48,7 @@ Recruiters want to see real-world data skills:
 ✅ Structuring into SQL for analysis
 This project demonstrates end-to-end data pipeline skills — essential for Data Analysts & Data Engineers.
 
-🔗 GitHub
-View Code on GitHub
-View Live Demo on Streamlit
-Step-by-Step on My Portfolio
+🔗 Links
+View Code on [GitHub](https://github.com/KingsleyOdume/Web-Scraping-Data-Cleaning-Pipeline)
+View Live Demo on [Streamlit](https://web-scraping-data-cleaning-pipeline-ybedw2d5zqfichrg2jdngn.streamlit.app)
+Step-by-Step on [My Portfolio](https://kingsleyodume.online/projects/web-scraping-data-cleaning-pipeline)
